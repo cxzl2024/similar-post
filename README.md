@@ -24,7 +24,7 @@ git clone https://github.com/yxwill/similar-posts.git
 
 如果克隆出现网络方面的问题，请参考本人站点“程序知路”的文章： [如何在境内加速 GitHub 资源的下载以及克隆](https://icxzl.com/how-to-speed-up-github-resources)。
 
-本人写了该插件的使用教程，具体请移步： [生成相关文章列表的 WordPress 插件：Similar Posts](https://icxzl.com/3855.html) 。
+本人写了该插件的使用教程，具体请移步： [生成相关文章的 WordPress 插件：Similar Posts](https://icxzl.com/3855.html) 。
 
 ---
 
