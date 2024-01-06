@@ -6,6 +6,8 @@
 
 且行且珍惜！
 
+---
+
 ## 安装方法
 
 把此仓库克隆到服务器的 `/path/to/wp-content/plugins/` 目录下：
@@ -16,12 +18,22 @@ git clone https://github.com/yxwill/similar-posts.git
 
 克隆完成，别忘了给目录及其下面的子目录和所有文件赋上 Nginx 能访问的系统用户名和用户组名。
 
-## 版权问题
+---
+
+## 下载和使用问题
 
 如果克隆出现网络方面的问题，请参考本人站点“程序知路”的文章： [如何在境内加速 GitHub 资源的下载以及克隆](https://icxzl.com/how-to-speed-up-github-resources)。
+
+本人写了该插件的使用教程，具体请移步： [生成相关文章列表的 WordPress 插件：Similar Posts](https://icxzl.com/3855.html) 。
+
+---
+
+## 版权问题
 
 若是插件原作者要因为版权问题找本人麻烦，还请提前通知本人： <admin@icxzl.com>，本人会立即下架此仓库的！
 
 > Please inform me before sending the lawyer's letter.
 
 My Email: <admin@icxzl.com> .
+
+---
