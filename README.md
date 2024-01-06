@@ -20,7 +20,7 @@ git clone https://github.com/yxwill/similar-posts.git
 
 如果克隆出现网络方面的问题，请参考本人站点“程序知路”的文章： [如何在境内加速 GitHub 资源的下载以及克隆](https://icxzl.com/how-to-speed-up-github-resources)。
 
-若是插件原作者要因为版权问题找本人麻烦，还请提前通知本人： <admin@icxzl.com>，本人会下架此仓库的！
+若是插件原作者要因为版权问题找本人麻烦，还请提前通知本人： <admin@icxzl.com>，本人会立即下架此仓库的！
 
 > Please inform me before sending the lawyer's letter.
 
