@@ -34,6 +34,6 @@ git clone https://github.com/yxwill/similar-posts.git
 
 > Please inform me before sending the lawyer's letter.
 
-My Email: <admin@icxzl.com> .
+Contact me: <admin@icxzl.com>.
 
 ---
