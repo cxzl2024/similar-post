@@ -13,7 +13,7 @@
 把此仓库克隆到服务器的 `/path/to/wp-content/plugins/` 目录下：
 
 ```bash
-git clone git@github.com:cxzl2024/similar-posts.git
+git clone https://github.com/cxzl2024/similar-posts.git
 ```
 
 克隆完成，别忘了给目录及其下面的子目录和所有文件赋上 Nginx 能访问的系统用户名和用户组名。
